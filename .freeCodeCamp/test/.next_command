@@ -67,3 +67,4 @@ touch bike-shop.sh
 pg_dump -cC --inserts -U freecodecamp bikes > bikes.sql
 chmod +x bike-shop.sh
 ./bike-shop.sh
+./bike-shop.sh
