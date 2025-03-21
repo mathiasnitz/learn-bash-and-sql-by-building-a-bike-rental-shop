@@ -85,3 +85,4 @@ UPDATE bikes SET available = false WHERE available = true
 pg_dump -cC --inserts -U freecodecamp bikes > bikes.sql
 ./bike-shop.sh
 [[ a =~ [0-9] ]]
+[[ a1 =~ [0-9] ]]
