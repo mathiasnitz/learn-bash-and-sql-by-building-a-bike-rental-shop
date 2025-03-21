@@ -65,3 +65,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 pg_dump -cC --inserts -U freecodecamp bikes > bikes.sql
 touch bike-shop.sh
 pg_dump -cC --inserts -U freecodecamp bikes > bikes.sql
+chmod +x bike-shop.sh
