@@ -65,12 +65,12 @@ RENT_MENU() {
         # if customer doesn't exist
 
         if [[ -z $CUSTOMER_NAME ]]
-then
-  # get new customer name
+        then
+          # get new customer name
 
-  # insert new customer
+          # insert new customer
 
-fi
+        fi
       fi
       
     fi
