@@ -98,3 +98,4 @@ pg_dump -cC --inserts -U freecodecamp bikes > bikes.sql
 clear
 ./bike-shop.sh
 pg_dump -cC --inserts -U freecodecamp bikes > bikes.sql
+pg_dump -cC --inserts -U freecodecamp bikes > bikes.sql
