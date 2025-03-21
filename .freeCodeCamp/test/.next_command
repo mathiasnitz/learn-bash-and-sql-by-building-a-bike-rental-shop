@@ -88,3 +88,4 @@ pg_dump -cC --inserts -U freecodecamp bikes > bikes.sql
 [[ a1 =~ [0-9] ]]
 __vsc_prompt_cmd_original
 [[ a1 =~ ^[0-9]$ ]]
+[[ 1 =~ ^[0-9]$ ]]
